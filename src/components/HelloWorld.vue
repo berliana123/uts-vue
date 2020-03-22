@@ -11,7 +11,7 @@
 
     <div class="pimg2">
       <div class="ptext">
-        <span class="border trans">Image Two Text</span>
+        <span class="border trans">WELCOME TO MY WEBSITE</span>
       </div>
     </div>
     <section class="section section-dark">
